@@ -22,7 +22,7 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 
 ## npm 
 * [npm Documentation](https://docs.npmjs.com)
-* Esp. how to use npm to manage dependencies
+* Especially, how to use npm to manage dependencies
 * structure of package.json
 
 ## Bower  
@@ -44,8 +44,9 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 
 ## Git
 * Get thorough with git workflow on command line.
-* Git guis are great but they’ll mess with your workflow if you don’t know what commands are running behind them.
-* Hence best to use git on cli.
+* Git guis are great but they’ll mess with your workflow if you don’t know or understand what commands are running behind them.
+* Most GUIs do not show the commands running in the backgound, or allow conflict resolution for merges.
+* Hence, it is best to use git on cli when you're a beginner.
 * Best place to learn and understand [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
   * Click on get started and read through the documents.
   * Most things will make sense only if you’ve had experience in source management and understand what problems a certain workflow solves. 
