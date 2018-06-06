@@ -35,10 +35,15 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 
 ## Testing and TDD/BDD
 * Unit, Integration, Acceptance Testing
-* Read Testable Javascript by
+* [A Gentle Intro to JS TDD: Part 1](https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/)
+* [A Gentle Intro to JS TDD: Part 2](https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-ajax/)
+* [A Gentle Intro to JS TDD: Part 3](https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-html-dom/)
+* Read "Testable Javascript" by Mark Ethan Trostler
 * [Behavior-driven Development - Semaphore](https://semaphoreci.com/community/tutorials/behavior-driven-development)
 * [BDD vs TDD: A Behavior-Driven Development Example | Toptal](https://www.toptal.com/freelance/your-boss-won-t-appreciate-tdd-try-bdd)
 * [Behavior-Driven Development](http://www.codemag.com/article/0805061)
+* [Mocha](https://mochajs.org/#asynchronous-code)
+* [Chai](http://www.chaijs.com)
 
 ## Continuous Integration and Delivery
 * To start with read [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment - Stack Overflow](https://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment#28628086)
