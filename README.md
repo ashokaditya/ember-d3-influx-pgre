@@ -85,6 +85,10 @@ The frontend app uses JSONAPI serializer to serialize and deserialize data.
   * Ember Data
   * Ember Testing
 
+### Handlebars
+Ember uses handlebars to templating but doesn't provide a detailed documentation for it.
+So if you're in doubt check out [Handlebars Templating](https://handlebarsjs.com/)
+
 ### D3js
 [D3.js - Data-Driven Documents](https://d3js.org)
 [Gallery · d3/d3 Wiki · GitHub](https://github.com/d3/d3/wiki/Gallery)
