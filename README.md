@@ -88,11 +88,11 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 ## Client App/Gossamer
 ### EmberJS
 * [Ember.js - Homepage](https://emberjs.com)
-* Ember js comes with a CLI called Ember cli that eases dev workflow. I would recommend using it in your workflow. Important things to learn:
+* I would recommend using [Ember CLI](https://ember-cli.com) that eases dev workflow with Emberjs. Also, a lot about deployment, upgrading and common issues are listed at Ember CLI page.
 * [Core Concepts](https://guides.emberjs.com/release/getting-started/core-concepts/) - best to understand and memorize this diagram, which tells you the overall abstraction of how requests and data flow in and out of ember apps.
 * Ember Run Loop
-* Ember Data
-* Ember Testing
+* [Ember Data](https://guides.emberjs.com/release/models/)
+* [Ember Testing](https://guides.emberjs.com/release/testing/)
 
 ### Handlebars
 Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but doesn't provide a detailed documentation for it.
@@ -107,7 +107,7 @@ Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but 
 * [Semantic UI](https://semantic-ui.com)
 * [GitHub - Semantic-Org/Semantic-UI-Ember: Official Semantic UI Integration for Ember](https://github.com/Semantic-Org/Semantic-UI-Ember)
 
-### Browserfify 
+### Browserify 
 * [Browserify](http://browserify.org) lets you require(‘modules’) in the browser by bundling up all of your dependencies.
 * If you don’t know what require(‘modules’) is then go read [Modules :: Eloquent JavaScript](http://eloquentjavascript.net/10_modules.html)
 
@@ -118,4 +118,4 @@ Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but 
 ### Authentication using Jason Web Tokens
 * [JSON Web Token Introduction - jwt.io](https://jwt.io/introduction/)
 * [JSON Web Tokens - jwt.io](https://jwt.io)
-* [Authenticate a Node.js API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+* [Example Authentication with JSON Web Token](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
