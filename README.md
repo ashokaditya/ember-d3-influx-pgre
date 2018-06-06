@@ -90,7 +90,7 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 * [Ember.js - Homepage](https://emberjs.com)
 * I would recommend using [Ember CLI](https://ember-cli.com) that eases dev workflow with Emberjs. Also, a lot about deployment, upgrading and common issues are listed at Ember CLI page.
 * [Core Concepts](https://guides.emberjs.com/release/getting-started/core-concepts/) - best to understand and memorize this diagram, which tells you the overall abstraction of how requests and data flow in and out of ember apps.
-* Ember Run Loop
+* [Ember Run Loop](https://github.com/eoinkelly/ember-runloop-handbook)
 * [Ember Data](https://guides.emberjs.com/release/models/)
 * [Ember Testing](https://guides.emberjs.com/release/testing/)
 
