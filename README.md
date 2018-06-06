@@ -67,8 +67,8 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 * Additionally, one can search for specific concepts and problems on stackoverflow.
 
 ### json api
-[JSON API — A specification for building APIs in JSON](http://jsonapi.org/)
-The frontend app uses JSONAPI serializer to serialize and deserialize data.
+* The frontend app uses JSONAPI serializer to serialize and deserialize data.
+* [JSON API — A specification for building APIs in JSON](http://jsonapi.org/)
 
 ### PM2/Process Managers
 * [PM2 - Cluster Mode](http://pm2.keymetrics.io/docs/usage/cluster-mode/) - Advanced Node.js production process manager with a built-in load balancer.
@@ -93,8 +93,10 @@ The frontend app uses JSONAPI serializer to serialize and deserialize data.
 Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but doesn't provide a detailed documentation for it.
 
 ### D3js
-[D3.js - Data-Driven Documents](https://d3js.org)
-[Gallery · d3/d3 Wiki · GitHub](https://github.com/d3/d3/wiki/Gallery)
+* [D3.js - Data-Driven Documents](https://d3js.org)
+* [Gallery · d3/d3 Wiki · GitHub](https://github.com/d3/d3/wiki/Gallery)
+* [How Selections Work](https://bost.ocks.org/mike/selection/)
+* [D3 in Depth](http://d3indepth.com)
 
 ### Semantic UI
 * [Semantic UI](https://semantic-ui.com)
