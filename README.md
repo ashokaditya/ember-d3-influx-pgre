@@ -2,13 +2,18 @@
 Everything is javascript in both apps so a thorough understanding is a must. Additionally, there’s considerable amounts of html and css in the client app as it runs on the browser. Also best to understand all web technologies and how they solve each specific problem.
 
 ## Javascript
-  * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) - best book to cover all basic and advanced stuff. I recommend doing all the exercises. And best to think about how to solve a problem on a abstract level put it down as plain english language comments, before starting to write actual code
-  * [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/javascript) - my source of truth for Javascript language API. Very well structured and constantly updated. Best not to use deprecated functions and features.
+  * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) - best book to cover all basic and advanced stuff. I recommend doing all the exercises. Best to think on how to solve a problem on a abstract level. Then write it down as comments, before writing actual code that implements that logic
+  * [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/javascript) - My source of truth for Javascript language API. Very well structured and constantly updated. Best not to use deprecated functions and features. Watch out for :thumbsdown: icons beside methods and properties.
   * Modules
   * Promises
   * Timers
   * Objects
   * Scope
+  * ES6
+
+### Babel/compile modern JS into browser compatible js
+* [Babel](https://babeljs.io/)
+You can see all the various ways for setting up babel be it IDEs, frameworks or build systems [here] (https://babeljs.io/docs/setup/)
 
 ## Web Technologies
 * [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
