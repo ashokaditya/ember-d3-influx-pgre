@@ -13,7 +13,7 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 
 ### Babel/compile modern JS into browser compatible js
 * [Babel](https://babeljs.io/)
-You can see all the various ways for setting up babel be it IDEs, frameworks or build systems [here] (https://babeljs.io/docs/setup/)
+* You can see all the various ways for setting up babel be it IDEs, frameworks or build systems [here] (https://babeljs.io/docs/setup/)
 
 ## Web Technologies
 * [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
