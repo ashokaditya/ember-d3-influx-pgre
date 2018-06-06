@@ -2,14 +2,14 @@
 Everything is javascript in both apps so a thorough understanding is a must. Additionally, there’s considerable amounts of html and css in the client app as it runs on the browser. Also best to understand all web technologies and how they solve each specific problem.
 
 ## Javascript
-  * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) - best book to cover all basic and advanced stuff. I recommend doing all the exercises. Best to think on how to solve a problem on a abstract level. Then write it down as comments, before writing actual code that implements that logic
-  * [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/javascript) - My source of truth for Javascript language API. Very well structured and constantly updated. Best not to use deprecated functions and features. Watch out for :thumbsdown: icons beside methods and properties.
-  * Modules
-  * Promises
-  * Timers
-  * Objects
-  * Scope
-  * ES6
+* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) - best book to cover all basic and advanced stuff. I recommend doing all the exercises. Best to think on how to solve a problem on a abstract level. Then write it down as comments, before writing actual code that implements that logic
+* [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/javascript) - My source of truth for Javascript language API. Very well structured and constantly updated. Best not to use deprecated functions and features. Watch out for :thumbsdown: icons beside methods and properties.
+* Modules
+* Promises
+* Timers
+* Objects
+* Scope
+* ES6
 
 ### Babel/compile modern JS into browser compatible js
 * [Babel](https://babeljs.io/)
@@ -58,24 +58,23 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 - - - -
 ## Server App/DDOS Api
 ### Node JS 
-[Index | Node.js v8.11.2 Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/)
-[Introduction, Slides and Code ⬇️ | Node University: Courses on](https://node.university/courses/107814/lectures/1590275)
+* [Index | Node.js v8.11.2 Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/)
+* [Introductory and intermediate concepts with videos](https://node.university/courses/107814/lectures/1590275)
 
 ### Express JS
-[Installing Express](https://expressjs.com/en/starter/installing.html)
-Also read all the links on the main navigation of the site.
-This is all you need to know.
-Additionally  you can search for specific concepts and problems on stackoverflow
+* [Installing Express](https://expressjs.com/en/starter/installing.html)
+* Also read all the links on the main navigation of the site. This is all you need to know.
+* Additionally, one can search for specific concepts and problems on stackoverflow.
 
 ### json api
 [JSON API — A specification for building APIs in JSON](http://jsonapi.org/)
 The frontend app uses JSONAPI serializer to serialize and deserialize data.
 
 ### PM2/Process Managers
-  * [PM2 - Cluster Mode](http://pm2.keymetrics.io/docs/usage/cluster-mode/) - what I use to ensure api service survives system restarts.
+* [PM2 - Cluster Mode](http://pm2.keymetrics.io/docs/usage/cluster-mode/) - Advanced Node.js production process manager with a built-in load balancer.
 
 ### PostGre SQL /RDBMS
-* ver 9.6 docs [PostgreSQL: Documentation: 9.6: PostgreSQL 9.6.9 Documentation](https://www.postgresql.org/docs/9.6/static/index.html)
+* Ver 9.6 docs [PostgreSQL: Documentation: 9.6: PostgreSQL 9.6.9 Documentation](https://www.postgresql.org/docs/9.6/static/index.html)
 
 ### InfluxDB / Time Series DBs
 * [InfluxDB 1.5 documentation | InfluxData Documentation](https://docs.influxdata.com/influxdb/v1.5/)
@@ -85,14 +84,13 @@ The frontend app uses JSONAPI serializer to serialize and deserialize data.
 ### EmberJS
 * [Ember.js - Homepage](https://emberjs.com)
 * Ember js comes with a CLI called Ember cli that eases dev workflow. I would recommend using it in your workflow. Important things to learn:
-  * [Core Concepts](https://guides.emberjs.com/release/getting-started/core-concepts/) - best to understand and memorize this diagram, which tells you the overall abstraction of how requests and data flow in and out of ember apps.
-  * Ember Run Loop
-  * Ember Data
-  * Ember Testing
+* [Core Concepts](https://guides.emberjs.com/release/getting-started/core-concepts/) - best to understand and memorize this diagram, which tells you the overall abstraction of how requests and data flow in and out of ember apps.
+* Ember Run Loop
+* Ember Data
+* Ember Testing
 
 ### Handlebars
-Ember uses handlebars to templating but doesn't provide a detailed documentation for it.
-So if you're in doubt check out [Handlebars Templating](https://handlebarsjs.com/)
+Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but doesn't provide a detailed documentation for it.
 
 ### D3js
 [D3.js - Data-Driven Documents](https://d3js.org)
@@ -103,14 +101,14 @@ So if you're in doubt check out [Handlebars Templating](https://handlebarsjs.com
 * [GitHub - Semantic-Org/Semantic-UI-Ember: Official Semantic UI Integration for Ember](https://github.com/Semantic-Org/Semantic-UI-Ember)
 
 ### Browserfify 
-  - Browserify lets you require(‘modules’) in the browser by bundling up all of your dependencies.
-  - if you don’t know what require(‘modules’) is then go read [Modules :: Eloquent JavaScript](http://eloquentjavascript.net/10_modules.html)
-[Browserify](http://browserify.org)
+* [Browserify](http://browserify.org) lets you require(‘modules’) in the browser by bundling up all of your dependencies.
+* If you don’t know what require(‘modules’) is then go read [Modules :: Eloquent JavaScript](http://eloquentjavascript.net/10_modules.html)
+
 
 ### Web Authentication
-[Web Authentication: An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/webauthn/)
+* [Web Authentication: An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/webauthn/)
 
 ### Authentication using Jason Web Tokens
-[JSON Web Token Introduction - jwt.io](https://jwt.io/introduction/)
-[JSON Web Tokens - jwt.io](https://jwt.io)
-[Authenticate a Node.js API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+* [JSON Web Token Introduction - jwt.io](https://jwt.io/introduction/)
+* [JSON Web Tokens - jwt.io](https://jwt.io)
+* [Authenticate a Node.js API with JSON Web Tokens ― Scotch](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
