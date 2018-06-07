@@ -80,6 +80,7 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 
 ### PostGre SQL /RDBMS
 * Ver 9.6 docs [PostgreSQL: Documentation: 9.6: PostgreSQL 9.6.9 Documentation](https://www.postgresql.org/docs/9.6/static/index.html)
+* You need to understand how sql works. Pretty much all the concepts of RDBMS plus performance tuning queries.
 
 ### InfluxDB / Time Series DBs
 * [InfluxDB 1.5 documentation | InfluxData Documentation](https://docs.influxdata.com/influxdb/v1.5/)
