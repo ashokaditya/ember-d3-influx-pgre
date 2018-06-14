@@ -127,3 +127,4 @@ Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but 
 ## Best Practices
 * [The 12-Factor App](https://12factor.net/config)
 * [The Frontend Checklist](https://frontendchecklist.io)
+* [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices)
