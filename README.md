@@ -22,6 +22,10 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 * [Introducing WebSockets: Bringing Sockets to the Web - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/websockets/basics/#toc-usecases)
 * [WebSockets - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
+## CORs
+* [HTTP access control (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+* [enable cross-origin resource sharing](https://enable-cors.org/client.html)
+
 ## CSP
 * [Content Security Policy CSP Reference & Examples](https://content-security-policy.com)
 
@@ -112,7 +116,6 @@ Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but 
 * [Browserify](http://browserify.org) lets you require(‘modules’) in the browser by bundling up all of your dependencies.
 * If you don’t know what require(‘modules’) is then go read [Modules :: Eloquent JavaScript](http://eloquentjavascript.net/10_modules.html)
 
-
 ### Web Authentication
 * [Web Authentication: An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/webauthn/)
 
@@ -120,3 +123,7 @@ Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but 
 * [JSON Web Token Introduction - jwt.io](https://jwt.io/introduction/)
 * [JSON Web Tokens - jwt.io](https://jwt.io)
 * [Example Authentication with JSON Web Token](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+
+## Best Practices
+* [The 12-Factor App](https://12factor.net/config)
+* [The Frontend Checklist](https://frontendchecklist.io)
