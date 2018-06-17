@@ -53,8 +53,9 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 * To start with read [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment - Stack Overflow](https://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment#28628086)
 * Best to read and understand [An Introduction to Continuous Integration, Delivery, and Deployment | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
 * and [Continuous integration vs. continuous delivery vs. continuous deployment |](https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd)
-* Semaphore CI
-* Travis CI
+* [Semaphore CI](https://semaphoreci.com)
+* [Travis CI](https://travis-ci.org)
+* [PostgreSQL CI](https://github.com/petere/pgci)
 
 ## Git
 * Get thorough with git workflow on command line.
