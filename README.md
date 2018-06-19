@@ -57,9 +57,6 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 * [Travis CI](https://travis-ci.org)
 * [PostgreSQL CI](https://github.com/petere/pgci)
 
-## Postman
-* [Postman Makes API Development Simple](https://www.getpostman.com/)
-
 ## Git
 * Get thorough with git workflow on command line.
 * Git guis are great but they’ll mess with your workflow if you don’t know or understand what commands are running behind them.
@@ -132,3 +129,14 @@ Ember uses [Handlebars Templating](https://handlebarsjs.com/) for templates but 
 * [The 12-Factor App](https://12factor.net/config)
 * [The Frontend Checklist](https://frontendchecklist.io)
 * [NodeJS Best Practices](https://github.com/i0natan/nodebestpractices)
+
+- - - -
+## Tools/Utilities/Standards
+Use the following tools for a easier developmen flow:
+
+* [Postman Makes API Development Simple](https://www.getpostman.com/)
+* [ESLint](https://eslint.org)
+* [JSStandard](https://standardjs.com)
+* [Less CSS](http://lesscss.org)
+* [Scalable and Modular Architecture for CSS](https://smacss.com)
+
