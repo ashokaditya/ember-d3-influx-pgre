@@ -1,5 +1,5 @@
 # ember-d3-influx-pgre
-Everything is javascript in both apps so a thorough understanding is a must. Additionally, there’s considerable amounts of html and css in the client app as it runs on the browser. Also best to understand all web technologies and how they solve each specific problem.
+Everything is javascript in both apps so a thorough understanding is a must. Additionally, there’s considerable amounts of html and css in the client app as it runs on the browser. Also best to understand all web technologies and how they solve each specific problem. Please check out [DeiC Tech Stack](https://stackshare.io/deic/) on stackshare.io if you wish to see thw entire tech stack of the front-end and server-side apps.
 
 ## Javascript
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) - best book to cover all basic and advanced stuff. I recommend doing all the exercises. Best to think on how to solve a problem on a abstract level. Then write it down as comments, before writing actual code that implements that logic
@@ -74,7 +74,7 @@ Everything is javascript in both apps so a thorough understanding is a must. Add
 ### Express JS
 * [Installing Express](https://expressjs.com/en/starter/installing.html)
 * Also read all the links on the main navigation of the site. This is all you need to know.
-* Additionally, one can search for specific concepts and problems on stackoverflow.
+* Additionally, one can search for specific concepts and problems on [stackoverflow](https://stackoverflow.com).
 
 ### json api
 * The frontend app uses JSONAPI serializer to serialize and deserialize data.
